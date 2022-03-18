@@ -1,4 +1,4 @@
 nama:kavin sebastian
 jurusan: informatika
 semester: 5
-universitas gadjah mada
+universitas padjadjaran
