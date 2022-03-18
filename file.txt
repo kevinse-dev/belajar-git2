@@ -1,0 +1,3 @@
+nama:kavin sebastian
+jurusan: informatika
+semester: 5
