@@ -1,3 +1,3 @@
 nama:kavin sebastian
-jurusan: informatika
+jurusan: akuntansi
 semester: 5
