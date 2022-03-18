@@ -1,7 +1,7 @@
 nama:kavin sebastian
 jurusan: informatika
 semester: 5
-usia: 22  tahun
+usia: 25 tahun
 universitas padjadjaran
 
 
