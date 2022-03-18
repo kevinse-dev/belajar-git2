@@ -1,3 +1,4 @@
 nama:kavin sebastian
 jurusan: sistem informasi
 semester: 5
+universitas gadjah mada
